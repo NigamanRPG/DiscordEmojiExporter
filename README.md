@@ -1,6 +1,5 @@
 # DiscordEmojiExporter
 
-# Info
 Экспорт эмодзи с гильдии Discord. Поддерживаются как обычные эмодзи (png), так и анимированные (gif).
 
 # Install
